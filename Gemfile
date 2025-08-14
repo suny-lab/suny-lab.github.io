@@ -11,3 +11,5 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+gem "webrick"  # required for local server on Ruby 3
+gem "wdm", ">= 0.1.0", platforms: [:mingw, :x64_mingw, :mswin]  # better file watching on Windows

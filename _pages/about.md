@@ -17,5 +17,17 @@ Our lab combines in vivo calcium imaging, viral-genetic circuit mapping, single-
 Students and postdocs in our lab may work on projects involving in vivo calcium imaging of neural activity in freely behaving mice, mapping neural circuits using viral-genetic tools, analyzing high-dimensional neural and behavioral data, building AI-empowered computational models, or performing molecular profiling of behaviorally relevant neurons. Trainees will gain hands-on experience in modern neuroscience techniques, advanced data science tools, and hypothesis-driven experimental design.
 
 ## Recent News
+Sept 2025
+
+* [Dr. Yingjun Dong](https://scholar.google.com/citations?hl=en&user=P3YI9OgAAAAJ&view_op=list_works&sortby=pubdate) joined the lab as a Postdoctoral Fellow. Dr. Dong is a machine learning scientist who received her Ph.D. from Binghamton University (SUNY). Welcome, Yingjun!
+
+[Read more news](/news/)
 
 ## Funding Sources
+[National Institute on Drug Abuse](https://nida.nih.gov/)
+
+[The Simons Foundation](https://www.simonsfoundation.org/2024/08/15/simons-foundation-announces-13-recipients-of-2024-independence-awards/)
+
+[Cancer Prevention & Research Institute of Texas](https://cprit.texas.gov/news-events/articles/cprit-awards-more-than-60-million-to-boost-texas-fight-against-cancer/)
+
+[McGovern Medical School](https://med.uth.edu/)

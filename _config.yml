@@ -22,7 +22,7 @@ repository               : "suny-lab/suny-lab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "lab_logo_v4.png"
+  avatar           : "lab_logo_v4_square.png"
   name             : #"Sun Lab"
   pronouns         : # example: "she/her"  
   bio              : "A neuroscience research Laboratory"

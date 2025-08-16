@@ -13,14 +13,13 @@ author_profile: true
 
 <div style="line-height: 1.5">
 <strong>Yanjun Sun, Ph.D.</strong><br>
-Assistant Professor, Neurobiology<br>
+Assistant Professor<br>
+Neurobiology and Anatomy<br>
 CPRIT Scholar<br>
 Simons SCGB Fellow<br>
-Email: yanjun.sun@uth.tmc.edu
+yanjun.sun@uth.tmc.edu<br>
 </div>
-<br><br>
+<br>
 
 ### Postdoctoral Fellow
-
-
 

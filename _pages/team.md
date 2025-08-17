@@ -23,3 +23,11 @@ yanjun.sun@uth.tmc.edu<br>
 
 ### Postdoctoral Fellow
 
+![]({{ site.url }}{{ site.baseurl }}/images/team/Yingjun_crop2.jpg){: style="height: 200px; float: left; margin-right: 10px" }
+
+<div style="line-height: 1.5">
+<strong>Yingjun Dong, Ph.D.</strong><br>
+Postdoctoral Fellow<br>
+PhD, Binghamton University, SUNY<br>
+</div>
+<br>

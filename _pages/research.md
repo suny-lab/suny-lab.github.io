@@ -19,7 +19,7 @@ Students and postdocs in our lab may work on projects involving in vivo calcium 
 
 ## Techniques
 
-* In vivo 1-photon and 2-photon miniscope imaging in freely behaving animals, with multicolor and optogenetic options. 
+* In vivo 1-photon and 2-photon miniscope imaging in freely behaving animals, with multicolor and optogenetic options 
 
 <div style="max-width:600px; width:60%; margin: 0 auto; text-align:center;">
 
@@ -50,3 +50,18 @@ Students and postdocs in our lab may work on projects involving in vivo calcium 
     Three-dimensional (3D) embedding of the subiculum population activity in the triangle, square and hexagon. Each dot is the population state at one time point. Time points within 5cm of the corners are color coded as shown in the inset (Sun et al., 2024, Nature)
   </div>
 </div>
+<br>
+
+* Viral and genetic tools for neural circuit mapping and activity-dependent labeling
+
+<div style="max-width:1200px; width:50%; margin: 0 auto; text-align:center;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/rabies_crop.jpg"
+       alt="Manifold embedding"
+       style="width:100%; height:auto; display:block;">
+  <div style="margin-top:8px; font-style:italic; font-size:80%;">
+    Injections of AAV helper virus (green) and genetically modified rabies virus (red) into the hippocampal CA1 region (Sun et al., 2014, Cell Rep)
+  </div>
+</div>
+<br>
+
+* Single-cell and spatial transcriptomics (coming soon!)

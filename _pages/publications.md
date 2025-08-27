@@ -13,14 +13,14 @@ author_profile: true
 ### Journal Articles (Selected)
 
 ### 2024
-* **Sun Y**<sup>*</sup>, Nitz DA, Xu X, Giocomo LM<sup>*</sup> (2024). Subicular neurons encode concave and convex geometries. [Nature](https://doi.org/10.1038/s41586-024-07139-z). 627(8005):821-829.
+* **Sun Y**\*, Nitz DA, Xu X, Giocomo LM\* (2024). Subicular neurons encode concave and convex geometries. [Nature](https://doi.org/10.1038/s41586-024-07139-z). 627(8005):821-829.
 
 ### 2023
 * Masuda FK,  Aery Jones EA<sup>+</sup>, **Sun Y**<sup>+</sup>, Giocomo LM (2023). Ketamine evoked disruption of entorhinal and hippocampal spatial maps. [Nature Communications](https://doi.org/10.1038/s41467-023-41750-4). 14(1): 6285.
 * **Sun Y**, Zweifel LS, Holmes TC, Xu X (2023). Whole-brain input mapping of the lateral versus medial anterodorsal bed nucleus of the stria terminalis in the mouse. [Neurobiology of Stress](https://doi.org/10.1016/j.ynstr.2023.100527). 23: 100527.
 
 ### 2022
-* **Sun Y**<sup>*</sup>, Giocomo LM<sup>*</sup> (2022). Neural circuit dynamics of drug-context associative learning in the mouse hippocampus. [Nature Communications](https://doi.org/10.1038/s41467-022-34114-x) 13(1): 6721.
+* **Sun Y**\*, Giocomo LM\* (2022). Neural circuit dynamics of drug-context associative learning in the mouse hippocampus. [Nature Communications](https://doi.org/10.1038/s41467-022-34114-x) 13(1): 6721.
 
 ### 2019
 * **Sun Y**<sup>+</sup>, Jin S<sup>+</sup>, Lin X, Chen L, Qiao X, Jiang L, Zhou P, Johnston KG, Golshani P, Nie Q, Holmes TC, Nitz DA, Xu X (2019). CA1-projecting subiculum neurons facilitate object-place learning. [Nature Neuroscience](https://doi.org/10.1038/s41593-019-0496-y). 22(11):1857-1870.

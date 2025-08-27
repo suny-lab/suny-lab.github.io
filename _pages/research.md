@@ -18,3 +18,35 @@ Our lab combines in vivo calcium imaging, viral-genetic circuit mapping, single-
 Students and postdocs in our lab may work on projects involving in vivo calcium imaging of neural activity in freely behaving mice, mapping neural circuits using viral-genetic tools, analyzing high-dimensional neural and behavioral data, building AI-empowered computational models, or performing molecular profiling of behaviorally relevant neurons. Trainees will gain hands-on experience in modern neuroscience techniques, advanced data science tools, and hypothesis-driven experimental design.
 
 ## Techniques
+
+* In vivo 1-photon and 2-photon miniscope imaging in freely behaving animals, with multicolor and optogenetic options. 
+
+<div style="max-width:600px; width:60%; margin: 0 auto; text-align:center;">
+
+  <!-- Top image -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/miniscope_mouse.png"
+       alt="Top illustration"
+       style="width:40%; height:auto; display:block; margin:0 auto 0;">
+
+  <!-- GIF -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/miniscope_video.gif"
+       alt="Motion correction demo"
+       style="width:100%; height:auto; display:block;">
+
+  <!-- Caption (wraps to the same width) -->
+  <div style="margin-top:8px; font-style:italic; font-size:80%;">
+    Raw vs. motion corrected in vivo miniscope (1-photon) calcium imaging of hippocampal CA1 (Sun and Giocomo, 2022, Nat Commun)
+  </div>
+</div>
+<br>
+
+* Computational modeling of single-cell and population-level neural dynamics
+
+<div style="width:90%; margin: 0 auto; text-align:center;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research/umap.jpg"
+       alt="Manifold embedding"
+       style="width:100%; height:auto; display:block;">
+  <div style="margin-top:8px; font-style:italic; font-size:80%;">
+    Three-dimensional (3D) embedding of the subiculum population activity in the triangle, square and hexagon. Each dot is the population state at one time point. Time points within 5cm of the corners are color coded as shown in the inset (Sun et al., 2024, Nature)
+  </div>
+</div>

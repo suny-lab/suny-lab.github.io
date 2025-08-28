@@ -1,16 +1,16 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
 
 {% include base_path %}
 \+ equal contribution; * corresponding author
-### Preprints (Selected)
+### Preprints
 * Bennett L, de Cothi W, Muessig L, Rodrigues FR, Cacucci F, Wills TJ, **Sun Y**, Giocomo LM, Lever C, Poulter S, Barry C (2024). Unifying subicular function: a predictive map approach. [bioRxiv](https://doi.org/10.1101/2024.11.06.622306).
 
-### Journal Articles (Selected)
+### Journal Articles
 
 2024
 * **Sun Y**\*, Nitz DA, Xu X, Giocomo LM\* (2024). Subicular neurons encode concave and convex geometries. [Nature](https://doi.org/10.1038/s41586-024-07139-z). 627(8005):821-829.

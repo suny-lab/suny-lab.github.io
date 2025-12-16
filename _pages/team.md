@@ -30,4 +30,24 @@ yanjun.sun@uth.tmc.edu<br>
 Postdoctoral Fellow<br>
 PhD, Binghamton University, SUNY<br>
 </div>
+<br><br><br><br>
+
+![]({{ site.url }}{{ site.baseurl }}/images/team/SiqiYuan_crop2.jpg){: style="height: 200px; float: left; margin-right: 10px" }
+
+<div style="line-height: 1.5">
+<strong>Siqi Yuan, Ph.D.</strong><br>
+Postdoctoral Fellow<br>
+PhD, University of Chinese Academy of Sciences <br>
+</div>
+<br><br><br><br>
+
+### Research Assistant
+
+![]({{ site.url }}{{ site.baseurl }}/images/profile.png){: style="height: 200px; float: left; margin-right: 10px" }
+
+<div style="line-height: 1.5">
+<strong>Qingying (Cathy) Jiang, M.S.</strong><br>
+Research Assistant<br>
+MS, The University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences <br>
+</div>
 <br>

@@ -43,7 +43,7 @@ PhD, University of Chinese Academy of Sciences <br>
 
 ### Research Assistant
 
-![]({{ site.url }}{{ site.baseurl }}/images/profile.png){: style="height: 200px; float: left; margin-right: 10px" }
+![]({{ site.url }}{{ site.baseurl }}/images/team/CathyJiang.jpg){: style="height: 200px; float: left; margin-right: 10px" }
 
 <div style="line-height: 1.5">
 <strong>Qingying (Cathy) Jiang, M.S.</strong><br>

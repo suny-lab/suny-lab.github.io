@@ -11,6 +11,10 @@ author_profile: true
 * Bennett L, de Cothi W, Muessig L, Rodrigues FR, Cacucci F, Wills TJ, **Sun Y**, Giocomo LM, Lever C, Poulter S, Barry C (2024). Unifying subicular function: a predictive map approach. [bioRxiv](https://doi.org/10.1101/2024.11.06.622306).
 
 ### Journal Articles
+2026
+* **Sun Y**, Pederick DT, Xu X, Luo L, Giocomo LM (2026). Topographic CA1 input shapes subicular spatial coding. [Current Biology](https://www.cell.com/current-biology/fulltext/S0960-9822(26)00941-3). 36, 1–10
+* Place R, Xu E, **Sun Y**, Olson J, Nitz DA (2026). Subiculum Encodes Environmental Structure. [Hippocampus](https://onlinelibrary.wiley.com/doi/10.1002/hipo.70086). 36(2):e70086.
+
 
 2024
 * **Sun Y**\*, Nitz DA, Xu X, Giocomo LM\* (2024). Subicular neurons encode concave and convex geometries. [Nature](https://doi.org/10.1038/s41586-024-07139-z). 627(8005):821-829.
